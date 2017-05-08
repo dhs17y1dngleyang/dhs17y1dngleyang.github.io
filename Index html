@@ -3,9 +3,8 @@
 <body>
 <h1>All About Me</h1>
 <title>This is my website</title>
-<p>I am a student in Dunman High School.Currently in first year of high school.</p>
-<link>
-<a href="www.dhs.sg">Dunman High School</a>
+<p>I am Ng Le Yang, a student in Dunman High School.Currently in first year of high school.</p>
+<a href ="www.dhs.sg">Dunman High School </a>
 <p>These are the things I love most</p>
 <ul>
 <li>Reading books</li>
@@ -16,6 +15,5 @@
 <img src="images-1.png">
 </ul>
 <img src="photo.jpg">
-<h1>, <h2>
 </body>
 </html>
